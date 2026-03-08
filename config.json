@@ -1,0 +1,21 @@
+{
+    "token": "Token ICI",
+    
+    "roles": [
+        {
+            "name": "Perm V",
+            "gs_role": "Role_GS_GAP",
+            "roles": [ "Role_A_Donner", "Role_A_Donner_2" ]
+        },
+        {
+            "name": "Perm IV",
+            "gs_role": "Role_GS_GAP",
+            "roles": [ "Role_A_Donner", "Role_A_Donner_2" ]
+        },
+        {
+            "name": "Perm III",
+            "gs_role": "Role_GS_GAP",
+            "roles": [ "Role_A_Donner", "Role_A_Donner_2" ]
+        }
+    ]
+}
